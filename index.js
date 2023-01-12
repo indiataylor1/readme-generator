@@ -11,3 +11,22 @@ function init() {}
 
 // Function call to initialize app
 init();
+
+
+//from Inquirer website
+
+var inquirer = require('inquirer');
+inquirer
+  .prompt([
+    /* Pass your questions in here */ 
+  ])
+  .then((answers) => {
+    // Use user feedback for... whatever!! answers will go here
+  })
+  .catch((error) => {
+    if (error.isTtyError) {
+      // Prompt couldn't be rendered in the current environment
+    } else {
+      // Something else went wrong
+    }
+  });
