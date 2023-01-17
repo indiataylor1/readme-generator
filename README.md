@@ -16,7 +16,7 @@
   ## Description
   This is a command-line application which accepts user input. A sample README file is generated when a user answers prompts which appear in the terminal. This application generates a project title, description, license, installation, usage, contribution, test and question sections. 
   ## Link to Deployed Action
-  This is the link to a Screencastify video which shows an overview of the application in action: LINK GOES HERE
+  This is the link to a Screencastify video which shows an overview of the application in action: https://drive.google.com/file/d/1oD-nhrPhzGXelaSR7JX943ntoocn_4g-/view
   ## Installation
   Clone the code, open the command terminal and invoke using the command NODE index.js.
   ## Usage
